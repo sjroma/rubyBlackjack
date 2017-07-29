@@ -1,6 +1,6 @@
 #puts "TODO Implement the game of blackjack."
 
-#	def get_yes_or_no
+#	def get_yes_or_no(answer)
 #			puts "do you want to play blackjack?"
 #  # loop until you get a good answer and return
 #    while true
